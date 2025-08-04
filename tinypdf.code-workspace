@@ -4,19 +4,7 @@
 			"path": "../tinypdf"
 		},
 		{
-			"path": "../../../../../../usr/local/go/src/strings"
-		},
-		{
-			"path": "../../../../../../usr/local/go/src/internal/bytealg"
-		},
-		{
 			"path": "../tinystring"
-		},
-		{
-			"path": "../../Archive/docpdf"
-		},
-		{
-			"path": "."
 		}
 	],
 	"settings": {}
