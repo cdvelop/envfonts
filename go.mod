@@ -2,6 +2,6 @@ module github.com/cdvelop/envfonts
 
 go 1.24.4
 
-require github.com/cdvelop/tinystring v0.1.61
+require github.com/cdvelop/tinystring v0.1.62
 
 replace github.com/cdvelop/tinystring => ../tinystring
